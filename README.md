@@ -1,5 +1,8 @@
 # Fairness-in-Classification-using-SVM
-Final Project in ECE 532 Matrix Methods in Machine Learning
+Final Project in ECE 532 Matrix Methods in Machine Learning, University of Wisconsin-Madison
+
+## Team members
+Sreeranjani Didugu, Sandeep Kumar Ramani, Bastin Joseph
 
 ## Problem Statement
 Introduce a notion of fairness to train a SVM binary classifier which
